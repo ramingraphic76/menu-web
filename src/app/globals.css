@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "shabnam";
+  src: url(../../public/fonts/Shabnam.ttf);
+}
+@font-face {
+  font-family: "vazir";
+  src: url(../../public/fonts/vazir/Vazir-Bold.ttf);
+}
+
+body {
+  font-family: "shabnam";
+}
+/* :root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #fafafa;
+    --foreground: #000000;
+  }
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  font-family: "shabnam";
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+
+.header-font{
+  font-family: "vazir";
+} */
